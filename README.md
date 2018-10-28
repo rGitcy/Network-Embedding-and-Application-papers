@@ -1,6 +1,7 @@
 Recommended-read papers on GE
 ===
 GE:graph embedding
+
 Contributed by Ruijie Wu and Chunyang Ruan
 
 Survey papers:
