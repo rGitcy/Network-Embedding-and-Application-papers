@@ -1,4 +1,4 @@
-Recommended-read papers on Network Embedding
+Some recommended papers on Network Embedding
 ===
 
 Contributed by Ruijie Wu and Chunyang Ruan
