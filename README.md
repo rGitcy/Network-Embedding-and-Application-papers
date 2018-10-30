@@ -1,4 +1,4 @@
-Recommended-read papers on GE
+Recommended-read papers on 
 ===
 GE:graph embedding
 
