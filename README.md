@@ -1,6 +1,5 @@
-Recommended-read papers on 
+Recommended-read papers on Network Embedding
 ===
-GE:graph embedding
 
 Contributed by Ruijie Wu and Chunyang Ruan
 
