@@ -95,4 +95,4 @@ Journal and Conference papers:
 81.	<b>SNE: Signed Network Embedding.</b> Shuhan Yuan, Xintao Wu, and Yang Xiang.
 82.	<b>Learning Product Embedding from Multi-relational User Behavior.</b> Zhao Zhang, Weizheng Chen, Xiaoxuan Ren, and Yan Zhang.[Paper]( https://link.springer.com/chapter/10.1007%2F978-3-319-93034-3_41)
 83.	<b>MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding.</b> Daokun Zhang, Jie Yin, Xingquan Zhu, and Chengqi Zhang.[Paper]( https://link.springer.com/chapter/10.1007%2F978-3-319-93037-4_16)
-84. <b>DeepCas: an End-to-end Predictor of Information Cascades</b>Cheng Li, Jiaqi Ma, Xiaoxiao Guo, Qiaozhu Mei.[Paper](http://dx.doi.org/10.1145/3038912.3052643)
+84. <b>DeepCas: an End-to-end Predictor of Information Cascades.</b>Cheng Li, Jiaqi Ma, Xiaoxiao Guo, Qiaozhu Mei.[Paper](http://dx.doi.org/10.1145/3038912.3052643)
