@@ -98,6 +98,6 @@ Journal and Conference papers:
 84. <b>DeepCas: an End-to-end Predictor of Information Cascades.</b>Cheng Li, Jiaqi Ma, Xiaoxiao Guo, Qiaozhu Mei.[Paper](http://dx.doi.org/10.1145/3038912.3052643)
 85. <b>Learning and Transferring IDs Representation in E-commerce.</b>Kui Zhao,	Yuechuan Li,	Zhaoqian Shuai,	Cheng Yang.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219855)
 86. <b>Semantic Proximity Search on Heterogeneous Graph by Proximity Embedding.</b>Zemin Liu, Vincent W.Zheng, Zhou Zhao, Fanwei Zhu,
-Kevin Chen-Chuan Chang, MinghuiWu, Jing Ying[Paper code](https://bitbucket.org/vwz/aaai2017-proxembed/)
-87. <b>Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba.</b>Jizhe Wang, Pipei Huan, Huan Zhao, Zhibo Zhang, Binqiang Zhao, Dik Lun Lee[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219869)
+Kevin Chen-Chuan Chang, MinghuiWu, Jing Ying.[Paper code](https://bitbucket.org/vwz/aaai2017-proxembed/)
+87. <b>Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba.</b>Jizhe Wang, Pipei Huan, Huan Zhao, Zhibo Zhang, Binqiang Zhao, Dik Lun Lee.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219869)
 88. <b>Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs.</b>	Zemin Liu,	Vincent W. Zheng,	Zhou Zhao,	Zhao Li,	Hongxia Yang,	Minghui Wu,	Jing Ying.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219953)
