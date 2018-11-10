@@ -96,3 +96,8 @@ Journal and Conference papers:
 82.	<b>Learning Product Embedding from Multi-relational User Behavior.</b> Zhao Zhang, Weizheng Chen, Xiaoxuan Ren, and Yan Zhang.[Paper]( https://link.springer.com/chapter/10.1007%2F978-3-319-93034-3_41)
 83.	<b>MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding.</b> Daokun Zhang, Jie Yin, Xingquan Zhu, and Chengqi Zhang.[Paper]( https://link.springer.com/chapter/10.1007%2F978-3-319-93037-4_16)
 84. <b>DeepCas: an End-to-end Predictor of Information Cascades.</b>Cheng Li, Jiaqi Ma, Xiaoxiao Guo, Qiaozhu Mei.[Paper](http://dx.doi.org/10.1145/3038912.3052643)
+85. <b>Learning and Transferring IDs Representation in E-commerce.</b>Kui Zhao,	Yuechuan Li,	Zhaoqian Shuai,	Cheng Yang.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219855)
+86. <b>Semantic Proximity Search on Heterogeneous Graph by Proximity Embedding.</b>Zemin Liu, Vincent W.Zheng, Zhou Zhao, Fanwei Zhu,
+Kevin Chen-Chuan Chang, MinghuiWu, Jing Ying[Paper code](https://bitbucket.org/vwz/aaai2017-proxembed/)
+87. <b>Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba.</b>Jizhe Wang, Pipei Huan, Huan Zhao, Zhibo Zhang, Binqiang Zhao, Dik Lun Lee[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219869)
+88. <b>Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs.</b>	Zemin Liu,	Vincent W. Zheng,	Zhou Zhao,	Zhao Li,	Hongxia Yang,	Minghui Wu,	Jing Ying.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219953)
