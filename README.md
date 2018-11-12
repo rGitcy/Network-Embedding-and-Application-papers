@@ -83,7 +83,7 @@ Journal and Conference papers:
 69.	<b>Revisiting Semi-Supervised Learning with Graph Embeddings.</b> Zhilin Yang, William W. Cohen. Ruslan Salakhutdinov.[Paper Code]( https://github.com/phanein/deepwalk)
 70.	<b>RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding.</b> ZhengWang, Xiaojun Ye, ChaokunWang, YuexinWu, ChangpingWang, Kaiwen Liang.
 71.	<b>Structural Deep Embedding for Hyper-Networks.</b> Ke Tu, Peng Cui, XiaoWang, FeiWang, Wenwu Zhu.
-72.	<b>Semantic Proximity Search on Heterogeneous Graph by Proximity Embedding.</b> Zemin Liu, VincentW. Zheng, Zhou Zhao, Fanwei Zhu,Kevin Chen-Chuan Chang, MinghuiWu, Jing Ying.
+72.	<b>Semantic Proximity Search on Heterogeneous Graph by Proximity Embedding.</b> Zemin Liu, VincentW. Zheng, Zhou Zhao, Fanwei Zhu,Kevin Chen-Chuan Chang, MinghuiWu, Jing Ying.[Paper code](https://bitbucket.org/vwz/aaai2017-proxembed/)
 73.	<b>SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS.</b> Thomas N. Kipf, Max Welling.[Paper Code]( https://github.com/tkipf/gcn)
 74.	<b>Semi-Supervised Network Embedding.</b> Chaozhuo Li, Zhoujun Li, Senzhang Wang, Yang Yang, Xiaoming Zhang, and Jianshe Zhou.
 75.	<b>SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction.</b> Hongwei Wang, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu.[Paper]( https://dl.acm.org/citation.cfm?doid=3159652.3159666)
@@ -97,7 +97,5 @@ Journal and Conference papers:
 83.	<b>MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding.</b> Daokun Zhang, Jie Yin, Xingquan Zhu, and Chengqi Zhang.[Paper]( https://link.springer.com/chapter/10.1007%2F978-3-319-93037-4_16)
 84. <b>DeepCas: an End-to-end Predictor of Information Cascades.</b>Cheng Li, Jiaqi Ma, Xiaoxiao Guo, Qiaozhu Mei.[Paper](http://dx.doi.org/10.1145/3038912.3052643)
 85. <b>Learning and Transferring IDs Representation in E-commerce.</b>Kui Zhao,	Yuechuan Li,	Zhaoqian Shuai,	Cheng Yang.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219855)
-86. <b>Semantic Proximity Search on Heterogeneous Graph by Proximity Embedding.</b>Zemin Liu, Vincent W.Zheng, Zhou Zhao, Fanwei Zhu,
-Kevin Chen-Chuan Chang, MinghuiWu, Jing Ying.[Paper code](https://bitbucket.org/vwz/aaai2017-proxembed/)
-87. <b>Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba.</b>Jizhe Wang, Pipei Huan, Huan Zhao, Zhibo Zhang, Binqiang Zhao, Dik Lun Lee.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219869)
-88. <b>Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs.</b>	Zemin Liu,	Vincent W. Zheng,	Zhou Zhao,	Zhao Li,	Hongxia Yang,	Minghui Wu,	Jing Ying.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219953)
+86. <b>Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba.</b>Jizhe Wang, Pipei Huan, Huan Zhao, Zhibo Zhang, Binqiang Zhao, Dik Lun Lee.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219869)
+87. <b>Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs.</b>	Zemin Liu,	Vincent W. Zheng,	Zhou Zhao,	Zhao Li,	Hongxia Yang,	Minghui Wu,	Jing Ying.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219953)
