@@ -105,4 +105,4 @@ Journal and Conference papers:
 90. <b>MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding.</b>Daokun Zhang, Jie Yin, Xingquan Zhu, and Chengqi Zhang [Paper](https://link.springer.com/chapter/10.1007%2F978-3-319-93037-4_16)
 91. <b>Identifying protein complexes based on node embeddings obtained from protein-protein interaction networks.</b>Xiaoxia Liu, Zhihao Yang, Shengtian Sang, Ziwei Zhou, Lei Wang, Yin Zhang, Hongfei Lin, Jian Wang and Bo Xu [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2364-2)
 92. <b>A Semi-Supervised Network Embedding Model for Protein Complexes Detection.</b>Wei Zhao, Jia Zhu, Min Yang, Danyang Xiao, Gabriel Pui Cheong Fung, Xiaojun Chen 
-93. <b>ContextCare: Incorporating Contextual Information Networks to Representation Learning on Medical Forum Data</b>Sendong Zhao, Meng Jiang, Quan Yuan, Bing Qin, Ting Liu, ChengXiang Zhai
+93. <b>ContextCare: Incorporating Contextual Information Networks to Representation Learning on Medical Forum Data.</b>Sendong Zhao, Meng Jiang, Quan Yuan, Bing Qin, Ting Liu, ChengXiang Zhai
