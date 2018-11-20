@@ -1,4 +1,4 @@
-Some recommended papers on Network Embedding
+Some recommended papers on Network Embedding and Application
 ===
 
 Contributed by Ruijie Wu and Chunyang Ruan
@@ -99,3 +99,10 @@ Journal and Conference papers:
 85. <b>Learning and Transferring IDs Representation in E-commerce.</b>Kui Zhao,	Yuechuan Li,	Zhaoqian Shuai,	Cheng Yang.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219855)
 86. <b>Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba.</b>Jizhe Wang, Pipei Huan, Huan Zhao, Zhibo Zhang, Binqiang Zhao, Dik Lun Lee.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219869)
 87. <b>Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs.</b>	Zemin Liu,	Vincent W. Zheng,	Zhou Zhao,	Zhao Li,	Hongxia Yang,	Minghui Wu,	Jing Ying.[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3219953)
+88. <b>PNE: Label Embedding Enhanced Network Embedding.</b>Weizheng Chen, Xianling Mao, Xiangyu Li, Yan Zhang, and Xiaoming Li
+89. <b>BASSI: Balance and Status Combined Signed Network Embedding.</b>Yiqi Chen, Tieyun Qian, Ming Zhong, and Xuhui Li [Paper](https://link.springer.com/chapter/10.1007%2F978-3-319-91452-7_4)
+89. <b>SNE: Signed Network Embedding.</b>Shuhan Yuan, Xintao Wu, and Yang Xiang
+90. <b>MetaGraph2Vec: Complex Semantic Path Augmented Heterogeneous Network Embedding.</b>Daokun Zhang, Jie Yin, Xingquan Zhu, and Chengqi Zhang [Paper](https://link.springer.com/chapter/10.1007%2F978-3-319-93037-4_16)
+91. <b>Identifying protein complexes based on node embeddings obtained from protein-protein interaction networks.</b>Xiaoxia Liu, Zhihao Yang, Shengtian Sang, Ziwei Zhou, Lei Wang, Yin Zhang, Hongfei Lin, Jian Wang and Bo Xu [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2364-2)
+92. <b>A Semi-Supervised Network Embedding Model for Protein Complexes Detection.</b>Wei Zhao, Jia Zhu, Min Yang, Danyang Xiao, Gabriel Pui Cheong Fung, Xiaojun Chen 
+93. <b>ContextCare: Incorporating Contextual Information Networks to Representation Learning on Medical Forum Data</b>Sendong Zhao, Meng Jiang, Quan Yuan, Bing Qin, Ting Liu, ChengXiang Zhai
