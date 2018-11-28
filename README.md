@@ -102,3 +102,4 @@ Journal and Conference papers:
 88. <b>Identifying protein complexes based on node embeddings obtained from protein-protein interaction networks.</b>Xiaoxia Liu, Zhihao Yang, Shengtian Sang, Ziwei Zhou, Lei Wang, Yin Zhang, Hongfei Lin, Jian Wang and Bo Xu [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2364-2)
 89. <b>A Semi-Supervised Network Embedding Model for Protein Complexes Detection.</b>Wei Zhao, Jia Zhu, Min Yang, Danyang Xiao, Gabriel Pui Cheong Fung, Xiaojun Chen 
 90. <b>ContextCare: Incorporating Contextual Information Networks to Representation Learning on Medical Forum Data.</b>Sendong Zhao, Meng Jiang, Quan Yuan, Bing Qin, Ting Liu, ChengXiang Zhai
+91. <b>Role action embeddings: scalable representation of network positions.</b>George Berry
