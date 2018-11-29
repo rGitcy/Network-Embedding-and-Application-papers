@@ -103,3 +103,5 @@ Journal and Conference papers:
 89. <b>A Semi-Supervised Network Embedding Model for Protein Complexes Detection.</b>Wei Zhao, Jia Zhu, Min Yang, Danyang Xiao, Gabriel Pui Cheong Fung, Xiaojun Chen 
 90. <b>ContextCare: Incorporating Contextual Information Networks to Representation Learning on Medical Forum Data.</b>Sendong Zhao, Meng Jiang, Quan Yuan, Bing Qin, Ting Liu, ChengXiang Zhai
 91. <b>Role action embeddings: scalable representation of network positions.</b>George Berry
+92. <b>SKIP-GRAPH: LEARNING GRAPH EMBEDDINGS WITH AN ENCODER-DECODER MODEL.</b>John Boaz Lee & Xiangnan Kong
+93. <b>Learning Graph Representations with Recurrent Neural Network Autoencoders.</b>Aynaz Taheri, Kevin Gimpel, Tanya Berger-Wolf
