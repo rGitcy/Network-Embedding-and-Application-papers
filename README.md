@@ -105,3 +105,9 @@ Journal and Conference papers:
 91. <b>Role action embeddings: scalable representation of network positions.</b>George Berry
 92. <b>SKIP-GRAPH: LEARNING GRAPH EMBEDDINGS WITH AN ENCODER-DECODER MODEL.</b>John Boaz Lee & Xiangnan Kong
 93. <b>Learning Graph Representations with Recurrent Neural Network Autoencoders.</b>Aynaz Taheri, Kevin Gimpel, Tanya Berger-Wolf
+94. <b>Representation Learning for Classification in Heterogeneous Graphs with Application to Social Networks.</b>LUDOVIC DOS SANTOS, BENJAMIN PIWOWARSKI, LUDOVIC DENOYER, and PATRICK GALLINARI [Paper](https://dl.acm.org/citation.cfm?doid=3234931.3201603)
+95. <b>Learning Latent Representations of Nodes for Classifying in Heterogeneous Social Networks.</b>Yann Jacob, Ludovic Denoyer,Patrick Gallinari [Paper](https://dl.acm.org/citation.cfm?doid=2556195.2556225)
+96. <b>Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding.</b>Jiaxi Tang, Ke Wang [Paper](https://dl.acm.org/citation.cfm?doid=3159652.3159656)
+97. <b>Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning.</b>Meng Qu, Jian Tang, Jiawei Han [Paper](https://dl.acm.org/citation.cfm?doid=3159652.3159711)
+98. <b>Multi-Dimensional Network Embedding with Hierarchical Structure.</b>Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin [Paper](https://dl.acm.org/citation.cfm?doid=3159652.3159680)
+99. <b>Exploring Expert Cognition for Attributed Network Embedding.</b>Xiao Huang, Qingquan Song, Jundong Li, Xia Hu [Paper](https://dl.acm.org/citation.cfm?doid=3159652.3159655)
