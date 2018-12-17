@@ -111,3 +111,4 @@ Journal and Conference papers:
 97. <b>Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning.</b>Meng Qu, Jian Tang, Jiawei Han [Paper](https://dl.acm.org/citation.cfm?doid=3159652.3159711)
 98. <b>Multi-Dimensional Network Embedding with Hierarchical Structure.</b>Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin [Paper](https://dl.acm.org/citation.cfm?doid=3159652.3159680)
 99. <b>Exploring Expert Cognition for Attributed Network Embedding.</b>Xiao Huang, Qingquan Song, Jundong Li, Xia Hu [Paper](https://dl.acm.org/citation.cfm?doid=3159652.3159655)
+100. <b>GRAM: Graph-based Attention Model for Healthcare Representation Learning.</b> Edward Choi, Mohammad Taha Bahadori, Le Song, Walter F. Stewart, Jimeng Sun
