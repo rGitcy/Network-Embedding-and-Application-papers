@@ -112,3 +112,8 @@ Journal and Conference papers:
 98. <b>Multi-Dimensional Network Embedding with Hierarchical Structure.</b>Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin [Paper](https://dl.acm.org/citation.cfm?doid=3159652.3159680)
 99. <b>Exploring Expert Cognition for Attributed Network Embedding.</b>Xiao Huang, Qingquan Song, Jundong Li, Xia Hu [Paper](https://dl.acm.org/citation.cfm?doid=3159652.3159655)
 100. <b>GRAM: Graph-based Attention Model for Healthcare Representation Learning.</b> Edward Choi, Mohammad Taha Bahadori, Le Song, Walter F. Stewart, Jimeng Sun
+101. <b>Deep Recursive Network Embedding with Regular Equivalence.</b>[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3220068)
+102. <b>Hierarchical Taxonomy Aware Network Embedding.</b>[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3220062)
+103. <b>Learning Deep Network Representations with Adversarially Regularized Autoencoders.</b>[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3220000)
+104. <b>NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks.</b>[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3220024)
+105. <b>On Interpretation of Network Embedding via Taxonomy Induction</b>[Paper](https://doi.org/10.1145/3219819.3220001)
