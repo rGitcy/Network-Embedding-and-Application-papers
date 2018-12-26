@@ -117,3 +117,4 @@ Journal and Conference papers:
 103. <b>Learning Deep Network Representations with Adversarially Regularized Autoencoders.</b>[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3220000)
 104. <b>NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks.</b>[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3220024)
 105. <b>On Interpretation of Network Embedding via Taxonomy Induction</b>[Paper](https://doi.org/10.1145/3219819.3220001)
+106. <b>Deep Graph Infomax</b>
