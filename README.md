@@ -118,3 +118,4 @@ Journal and Conference papers:
 104. <b>NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks.</b>[Paper](https://dl.acm.org/citation.cfm?doid=3219819.3220024)
 105. <b>On Interpretation of Network Embedding via Taxonomy Induction</b>[Paper](https://doi.org/10.1145/3219819.3220001)
 106. <b>Deep Graph Infomax</b>
+107. <b>Learning Graph Embedding with Adversarial Training Methods.</b>Shirui Pan, Ruiqi Hu, Sai-fu Fung, Guodong Long, Jing Jiang, and Chengqi Zhang, Senior Member, IEEE
